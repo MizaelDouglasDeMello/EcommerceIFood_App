@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435913552724",
+    "project_id": "ecommerceifoodsapp",
+    "storage_bucket": "ecommerceifoodsapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435913552724:android:5f073f4784c271a150cec1",
+        "android_client_info": {
+          "package_name": "br.com.mizaeldouglas.ecommerceifoods_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9IbPi7MCaE7NnSGDF7NGIjr0sB57cWLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
