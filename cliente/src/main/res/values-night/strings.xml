@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">EcommerceIFoods_App</string>
     <string name="entrar">Entrar</string>
     <string name="cadastro">Cadastra-se</string>
     <string name="email">Digite seu Email</string>
